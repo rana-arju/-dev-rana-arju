@@ -1,0 +1,42 @@
+[
+    {
+    "title": "Bi-Cycle-manufacturer",
+    "description": "One Home page with header, banner, About Business,six product, Couter Section, Blogs, and footer section one blog page whare Five quetion and answers show most import part of login page whare we can login google and email, password and register page whare registation with name. email, passwoed Deshboard menu whare user see neccessary navlink Not Found page we can see 404 page",
+    "img1": "https://i.ibb.co/84SPsg0/bi-cycle-full-view.png",
+    "img2": "https://i.ibb.co/Q8thKnX/bi-cycle-all-order.png",
+    "img3": "https://i.ibb.co/ggV4YPK/logico-profile.png",
+    "live": "https://bicycle-2a227.web.app/",
+    "client": "https://github.com/rana-arju/bi-cycle-client",
+    "server": "https://github.com/rana-arju/bi-cycle-server",
+    "tech1":"mongodb",
+    "tech2":"express",
+    "tech3":"react",
+    "tech4":"tailwindcss"
+    },
+    {
+    "title": "Logisco - Logistics & Transportation",
+    "description": "One Home page with header, banner, six product testimonial, subscribe and footer section one blog page whare four quetion and answers show most import part of login page whare we can     login google and email, password and register page whare registation with name. email, passwoed manage inventory whare we can see all product and we want any item delete my product page whare we can show our own added product add product page whare we can added new item in the wbsite Not Found page we can see 404 page",
+    "img1": "https://i.ibb.co/N3TmjD3/bi-cycle-home-page.png",
+    "img2": "https://i.ibb.co/YN8bxVF/logico-management.png",
+    "img3": "https://i.ibb.co/PxrV7M9/scaleton-while-data-load.png",
+    "live": "https://logica-f4803.web.app/",
+    "client": "https://github.com/rana-arju/logico-warehouse-client",
+    "server": "https://github.com/rana-arju/logico-warehouse-server",
+    "tech1":"mongodb",
+    "tech2":"express",
+    "tech3":"react",
+    "tech4":"tailwindcss"
+    },
+    {
+    "title": "Agency Portfolio",
+    "description": "It is a single page portfolio website. whare agency showcase there service and vision. It is build using html, css.",
+    "img1": "https://i.ibb.co/8d772kp/agency-portfolio.png",
+    "live": "https://one-page-creative.netlify.app/",
+    "client": "https://github.com/rana-arju/one-page-website",
+    "server": "https://github.com/rana-arju/one-page-website",
+    "tech1":"css",
+    "tech2":"html",
+    "tech3":"jQuery",
+    "tech4":"bootstrap"
+    }
+]
